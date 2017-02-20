@@ -1,0 +1,7 @@
+  { "name": "Ripostiglio ala Nord-Ovest",
+    "description": "Una stanza polverosa, con vecchi mobili e sedie nascosti sotto a polverosi lenzuoli.",
+    "neighbors": {"e":4,"s":2},
+    "items": ["gancio"],
+    "npc": [],
+    "npcis": []
+  }

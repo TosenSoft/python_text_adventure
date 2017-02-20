@@ -1,0 +1,7 @@
+  { "name": "Sala commemorativa ala Nord-Est",
+    "description": "Stanza contenente diverse statue e busti di nobili ricchi e potenti della famiglia.",
+    "neighbors": {"s":11},
+    "items": ["maniglia"],
+    "npc": [],
+    "npcis": ["busto verde"]
+  }

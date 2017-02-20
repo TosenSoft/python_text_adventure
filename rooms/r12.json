@@ -1,0 +1,7 @@
+  { "name": "Sala geografia ala Sud-Est",
+    "description": "Appena entrato, la luce del Sole illumina il tuo viso ed osservi la stanza vuota: sulla parete di fronte trovi uno stendardo con lo stemma della famiglia. Sul tavolo, vedi appoggiata una grossa pergamena.",
+    "neighbors": {"n":11},
+    "items": ["testamento"],
+    "npc": [],
+    "npcis": []
+  }

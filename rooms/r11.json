@@ -1,0 +1,7 @@
+  { "name": "Anticamera ala Est",
+    "description": "Un'anticamera buia e spoglia. Una grossa porta chiude la parete a sud.",
+    "neighbors": {"n":10,"s":12,"w":8},
+    "items": [],
+    "npc": ["porta sprangata"],
+    "npcis": []
+  }
