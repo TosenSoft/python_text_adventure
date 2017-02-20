@@ -1,0 +1,7 @@
+  { "name": "Camera matrimoniale Sud-Est",
+    "description": "Una camera con un letto matrimoniale ad uso degli ospiti. Puoi tornare verso NORD.",
+    "neighbors": {"n":19},
+    "items": ["lente", "pistola scarica"],
+    "npc": [],
+    "npcis": []
+  }

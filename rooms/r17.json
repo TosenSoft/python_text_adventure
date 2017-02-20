@@ -1,0 +1,7 @@
+  { "name": "Biblioteca primo piano Nord",
+    "description": "Una biblioteca piena di libri di filosofia, medicina e giurisprudenza. Una grossa libreria occupa la parete ad ovest.",
+    "neighbors": {"w":16,"e":18},
+    "items": [],
+    "npc": ["libreria incompleta"],
+    "npcis": ["cassaforte con serratura"]
+  }

@@ -1,0 +1,7 @@
+  { "name": "Sotterraneo",
+    "description": "Cantina sotterranea al di sotto della villa. Una grossa porta si erge sulla parete ad est.",
+    "neighbors": {"e":15,"n":13,"up":5},
+    "items": ["lettera cifrata"],
+    "npc": ["porta ingranaggi"],
+    "npcis": ["portagioie con bottoni"]
+  }

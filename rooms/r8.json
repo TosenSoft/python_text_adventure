@@ -1,0 +1,7 @@
+  { "name": "Sartoria",
+    "description": "Spaziosa sala colma di specchi; in passato modelle mozzafiato provavano e sfoggiavano eleganti abiti.",
+    "neighbors": {"n":7,"e":11},
+    "items": ["specchietto rotto"],
+    "npc": [],
+    "npcis": []
+  }

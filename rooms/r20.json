@@ -1,0 +1,7 @@
+  { "name": "Armeria",
+    "description": "Una grande armeria con tanto di bersagli e vecchie rastrelliere vuote.",
+    "neighbors": {"n":16,"up":22},
+    "items": [],
+    "npc": ["grata"],
+    "npcis": ["bersaglio pistola", "cassaforte"]
+  }

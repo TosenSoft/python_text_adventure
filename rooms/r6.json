@@ -1,0 +1,7 @@
+  { "name": "Salone",
+    "description": "Salone d'ingresso della villa. Qui si accoglievano eleganti nobili e si ballava per intere notti. Una grossa grata blocca il passaggio verso nord.",
+    "neighbors": {"w":3,"n":5,"e":9},
+    "items": [],
+    "npc": [],
+    "npcis": []
+  }

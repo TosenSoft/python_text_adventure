@@ -1,0 +1,7 @@
+  { "name": "Sala da te'",
+    "description": "In questa sala si passavano interi pomeriggi a discutere di attualita' e politica con un buon te'. Si intravede il salone verso sud ed una botola sembra condurre nel sotterraneo.",
+    "neighbors": {"n":4,"s":6,"dw":14},
+    "items": ["bracciale di perle", "occhio verde", "corda"],
+    "npc": ["orologio a pendolo", "botola"],
+    "npcis": []
+  }

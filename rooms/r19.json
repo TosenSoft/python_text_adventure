@@ -1,0 +1,7 @@
+  { "name": "Studio primo piano di Nord-Est",
+    "description": "In questa sala hanno studiato musica e recitazione i piu' celebri nobili della famiglia.",
+    "neighbors": {"w":18,"s":21},
+    "items": [],
+    "npc": ["bara"],
+    "npcis": ["pianoforte"]
+  }

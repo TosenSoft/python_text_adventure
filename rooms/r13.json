@@ -1,0 +1,7 @@
+  { "name": "Sotterraneo Nord",
+    "description": "Buia e tetra cantina per stoccare botti di vino e birra. Non viene visitata da molto tempo.",
+    "neighbors": {"s":14},
+    "items": ["ascia", "polvere da sparo", "carboncino"],
+    "npc": [],
+    "npcis": []
+  }

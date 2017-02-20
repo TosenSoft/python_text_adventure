@@ -1,0 +1,7 @@
+  { "name": "Camera da letto primo piano di Nord-Ovest",
+    "description": "In questa stanza hanno dormito molti nobili negli anni passati. Del vecchio letto resta solo la struttura.",
+    "neighbors": {"s":20,"e":17},
+    "items": ["chiave cassaforte", "spartito per pianoforte"],
+    "npc": [],
+    "npcis": []
+  }

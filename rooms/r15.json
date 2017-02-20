@@ -1,0 +1,7 @@
+  { "name": "Sotterraneo Est",
+    "description": "Cantina per stoccare salumi e altri tipi di carne.",
+    "neighbors": {"w":14},
+    "items": ["mela finta"],
+    "npc": [],
+    "npcis": []
+  }

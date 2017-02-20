@@ -1,0 +1,7 @@
+  { "name": "Veranda ala Ovest",
+    "description": "Antica veranda usata per conversare tra un libro e l'altro alla luce del Sole, grazie alla grande finestra sul lato ovest. Un grosso quadro bianco occupa la parete ad est.",
+    "neighbors": {"n":2,"e":6},
+    "items": ["sedia", "tavolo", "cocci di vetro"],
+    "npc": ["quadro"],
+    "npcis": []
+  }

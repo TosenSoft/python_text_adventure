@@ -1,0 +1,7 @@
+  { "name": "Cucina ala Nord",
+    "description": "Una vecchia cucina piena di vecchie pentole e ragnatele. Sono state trasferite qui vecchie statue e diversi tavoli da lettura.",
+    "neighbors": {"w":1,"e":7,"s":5},
+    "items": [],
+    "npc": [],
+    "npcis": ["braccio marmo", "calamaio"]
+  }

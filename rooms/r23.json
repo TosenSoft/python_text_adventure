@@ -1,0 +1,7 @@
+  { "name": "Ripostiglio sottotetto",
+    "description": "Un piccolo ripostiglio nel sottotetto pieno di polvere e cianfrusaglie.",
+    "neighbors": {"n":22},
+    "items": ["chiave di diamante"],
+    "npc": [],
+    "npcis": []
+  }

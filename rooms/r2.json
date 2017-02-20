@@ -1,0 +1,7 @@
+  { "name": "Studio ala Ovest",
+    "description": "Piccolo studio di lettura e scrittura dell'ala est, andata distrutta per un incendio diversi anni fa. Un grosso abaco occupa la parete a nord.",
+    "neighbors": {"n":1,"s":3},
+    "items": ["libro rovinato", "bottiglia rossa", "piuma"],
+    "npc": ["abaco a parete"],
+    "npcis": ["carillon scarico"]
+  }

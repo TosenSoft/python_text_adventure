@@ -1,0 +1,7 @@
+  { "name": "Cantina sottoscala",
+    "description": "Una piccola stanza in cui si esponevano bottiglie di vino pregiato ed altre cianfrusaglie. Si potrebbe salire al piano superiore, ma la scala pieghevole e' chiusa.",
+    "neighbors": {"w":4,"s":8,"up":18},
+    "items": [],
+    "npc": ["scala pieghevole", "portabottiglia rosso"],
+    "npcis": []
+  }

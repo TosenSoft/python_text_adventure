@@ -1,0 +1,7 @@
+  { "name": "Biblioteca ala Sud",
+    "description": "Biblioteca dell'ala sud, piena di libri per bambini e ragazzi.",
+    "neighbors": {"w":6},
+    "items": ["poltrona", "chiave carillon", "lanterna", "libro indovinelli"],
+    "npc": [],
+    "npcis": []
+  }

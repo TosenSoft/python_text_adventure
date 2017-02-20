@@ -1,0 +1,7 @@
+  { "name": "Sala commemorativa primo piano Nord",
+    "description": "Una stanza contenente una grossa lapide in marmo, scarsamente illuminata.",
+    "neighbors": {"w":17,"e":19,"dw":7},
+    "items": [],
+    "npc": ["lapide illeggibile"],
+    "npcis": []
+  }

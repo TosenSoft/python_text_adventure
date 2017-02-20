@@ -1,0 +1,7 @@
+  { "name": "Osservatorio",
+    "description": "Antico osservatorio in cui astronomi ed appassionati nobili scrutavano il cielo. Puoi scendere di sotto.",
+    "neighbors": {"dw":20,"s":23},
+    "items": ["chiave di platino"],
+    "npc": ["telescopio senza lente", "piatto frutta finta", "statua di Poseidone"],
+    "npcis": []
+  }
